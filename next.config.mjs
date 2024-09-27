@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://advandplv.vercel.app/',
+        destination: 'https://advandplv.vercel.app/message',
         permanent: true,
       },
     ]
